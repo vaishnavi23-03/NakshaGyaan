@@ -2,8 +2,8 @@
 
 ##  Introduction
 **NakshaGyaan** is a geospatial semantic segmentation tool designed to run directly on a device, enabling **real-time analysis of geospatial imagery** without relying heavily on cloud infrastructure.
-
 Unlike conventional cloud-based solutions—which often suffer from slow response times, high costs, and no offline access, NakshaGyaan offers **fast, resource-friendly, and offline-capable** semantic segmentation for **WMS (Web Map Service)** loaded geospatial images.
+
 ![Architecture Diagram](architecture.jpg)
 ---
 
