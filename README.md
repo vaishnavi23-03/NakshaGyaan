@@ -9,7 +9,7 @@ Unlike conventional cloud-based solutions—which often suffer from slow respons
 
 ##  Significance
 - **Interactive Geospatial Analysis** made accessible for multiple industries.
-- Works efficiently with **limited resources**—ideal for remote areas.
+- Works efficiently with **limited resources** ideal for remote areas.
 - Useful for **forestry, disaster zones, agriculture, and urban planning**.
   
 ---
